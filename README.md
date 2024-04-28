@@ -1,2 +1,6 @@
-# Hand_drawn_image_recognition
-Computer vision project 
+## Computer vision project 
+## Problem Statement : 
+The automatic recognition of hand-drawn sketches poses a significant challenge due to the inherent variability and simplicity of sketches compared to full-fledged images. Sketches often lack detail and contain only the essential elements to convey the intended object, which can vary widely in style, stroke order, and completeness depending on the individual artist. This variability makes it difficult for traditional image processing algorithms, which are typically designed for more detailed and consistent photographic images, to perform well.
+The Google Quick Draw dataset, while extensive, presents unique challenges as it consists of sketches drawn by a wide range of individuals from across the globe, adding to the diversity in drawing styles and the complexity of the classification task. Furthermore, the real-time application of sketch recognition requires not only high accuracy but also efficiency in processing to provide immediate feedback, which is critical for applications in digital education, interactive design, and other creative fields.
+This project aims to address these challenges by implementing and comparing several machine learning models to identify the most effective approach for recognizing a wide variety of hand-drawn sketches. Additionally, we explore various preprocessing techniques to enhance the feature set of the raw sketches, thereby improving the accuracy of our models. The goal is to develop a robust system that can accurately and efficiently recognize hand-drawn sketches in real-time applications.
+
